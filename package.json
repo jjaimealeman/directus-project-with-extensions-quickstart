@@ -1,0 +1,12 @@
+{
+  "name": "directus-project-with-extensions-quickstart",
+  "description": "Directus project with extensions quickstart",
+  "author": {
+    "name": "Jaime Aleman",
+    "url": "https://915website.com"
+  },
+  "version": "11.0.0-rc.2",
+  "dependencies": {
+    "directus": "11.0.0-rc.2"
+  }
+}
